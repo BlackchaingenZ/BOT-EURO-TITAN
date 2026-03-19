@@ -19,8 +19,8 @@ input string TelegramChatID   = "";
 //========================
 // CONTROL TELEGRAM BOT
 //========================
-input string ControlBotToken = "8599108965:AAEO60T3GHit5nvy2lENMZAYMXuWUO-mbAs";
-input string ControlChatID   = "@THONGBAO1068953";
+input string ControlBotToken = "8331554344:AAFxGw4pS-UqtCwsdolE9hvcSDmz1N4W0E4";
+input string ControlChatID   = "@THONGBAOREMOTE";
 
 datetime LastControlCheck = 0;
 int ControlCheckInterval = 5;
